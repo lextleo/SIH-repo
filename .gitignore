@@ -1,0 +1,13 @@
+# Python Environments
+venv/
+.venv/
+__pycache__/
+depth-anything-3/
+
+# React Dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Local App Data
+backend/uploads/
+backend/static/models/
